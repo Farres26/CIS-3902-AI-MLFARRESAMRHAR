@@ -10,3 +10,5 @@ Files:
 Linear regression example file: https://colab.research.google.com/github/plthomps/CIS-3902-Data-Mining/blob/main/Linear_Regression_Example_with_the_Housing_Data.ipynb
 Bias variance overfitting file: https://colab.research.google.com/github/plthomps/CIS-3902-Data-Mining/blob/main/bias_variance_overfitting_fertilizer_crop_yield_starter.ipynb/#scrollTo=axiXGCs_lXKu
 Regulization: https://github.com/Farres26/CIS-3902-AI-MLFARRESAMRHAR/blob/main/regularization.ipynb
+Data cleaning exersise: https://github.com/Farres26/CIS-3902-AI-MLFARRESAMRHAR/blob/main/Data_Cleaning_ExerciseFA.ipynb
+My Data cleaning exersise: https://github.com/Farres26/CIS-3902-AI-MLFARRESAMRHAR/blob/main/Data_Cleaning_Exercise_Class.ipynb
