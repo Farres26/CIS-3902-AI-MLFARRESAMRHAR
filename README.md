@@ -13,4 +13,4 @@ Regulization: https://github.com/Farres26/CIS-3902-AI-MLFARRESAMRHAR/blob/main/r
 Data cleaning exersise: https://github.com/Farres26/CIS-3902-AI-MLFARRESAMRHAR/blob/main/Data_Cleaning_ExerciseFA.ipynb
 My Data cleaning exersise: https://github.com/Farres26/CIS-3902-AI-MLFARRESAMRHAR/blob/main/Data_Cleaning_Exercise_Class.ipynb
 Mushroom_data: https://github.com/Farres26/CIS-3902-AI-MLFARRESAMRHAR/blob/main/Mushroom_Reduced_Student.ipynb
-AutoViz Documentation: 
+AutoViz Documentation: https://github.com/Farres26/CIS-3902-AI-MLFARRESAMRHAR/blob/main/Autoviz_(3).ipynb
