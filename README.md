@@ -16,3 +16,4 @@ Mushroom_data: https://github.com/Farres26/CIS-3902-AI-MLFARRESAMRHAR/blob/main/
 AutoViz Documentation: https://github.com/Farres26/CIS-3902-AI-MLFARRESAMRHAR/blob/main/Autoviz_(3).ipynb
 Random_Forest_crime_data: https://github.com/Farres26/CIS-3902-AI-MLFARRESAMRHAR/blob/main/random_forest_crime_assignment_(1).ipynb
 cohens_kappa: https://github.com/Farres26/CIS-3902-AI-MLFARRESAMRHAR/blob/main/cohens_kappa_ml_notebook_(1).ipynb
+Machine Learning for Network Intrusion Detection: UNSW-NB15 Analysis Deliverable 1: https://github.com/Farres26/CIS-3902-AI-MLFARRESAMRHAR/blob/main/Machine_Learning_for_Network_Intrusion_Detection_UNSW_NB15_AnalysisD1.ipynb
