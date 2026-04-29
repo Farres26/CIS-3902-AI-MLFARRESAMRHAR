@@ -16,6 +16,8 @@ Machine Learning for Network Intrusion Detection: UNSW-NB15 Analysis Deliverable
 
 Machine Learning for Network Intrusion Detection: UNSW-NB15 Analysis Deliverable 3 (completed notebook): https://github.com/Farres26/CIS-3902-AI-MLFARRESAMRHAR/blob/main/Machine_Learning_for_Network_Intrusion_Detection_UNSW_NB15_AnalysisFINAL.ipynb
 
+Presentation: https://docs.google.com/presentation/d/1ZTuN2rMV7_xUf9dGey8O5AEMk2lmMFAur7R5NhCYrdw/edit?usp=sharing
+
 Other class works: 
 
 Linear regression example file: https://colab.research.google.com/github/plthomps/CIS-3902-Data-Mining/blob/main/Linear_Regression_Example_with_the_Housing_Data.ipynb
